@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="720" viewBox="0 0 720 720" role="img" aria-label="Curious Bot: a robot whose antenna is a question mark, for the build-then-answer format">
+<title>Curious Bot: a robot whose antenna is a question mark, for the build-then-answer format</title>
+<defs><style><![CDATA[@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@600;700;800&display=swap');]]></style></defs>
+<rect width="720" height="720" fill="#FF8A00"/>
+<g transform="translate(0 6)">
+<path d="M360 164 V156 C360 136 404 130 404 100 C404 72 384 56 357 56 C330 56 312 72 310 96" fill="none" stroke="#14213D" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="174" y="292" width="34" height="72" rx="11" fill="#14213D"/>
+<rect x="512" y="292" width="34" height="72" rx="11" fill="#14213D"/>
+<rect x="200" y="214" width="320" height="222" rx="64" fill="#FFFFFF" stroke="#14213D" stroke-width="12"/>
+<circle cx="360" cy="196" r="16" fill="#14213D"/>
+<circle cx="300" cy="318" r="38" fill="#14213D"/>
+<circle cx="313" cy="305" r="11" fill="#FFFFFF"/>
+<circle cx="426" cy="324" r="24" fill="#14213D"/>
+<circle cx="434" cy="316" r="7" fill="#FFFFFF"/>
+<path d="M398 274 Q426 254 454 268" fill="none" stroke="#14213D" stroke-width="10" stroke-linecap="round"/>
+<circle cx="368" cy="392" r="13" fill="#14213D"/>
+<text x="360" y="536" text-anchor="middle" font-family="Rubik, 'Segoe UI', system-ui, sans-serif" font-size="84" font-weight="800" fill="#14213D">RoboSTEAM</text>
+<text x="367" y="578" text-anchor="middle" font-family="Rubik, 'Segoe UI', system-ui, sans-serif" font-size="28" font-weight="700" letter-spacing="14" fill="#14213D">CHALLENGE</text>
+<rect x="186" y="602" width="348" height="50" rx="25" fill="#14213D"/>
+<text x="361.5" y="634" text-anchor="middle" font-family="Rubik, 'Segoe UI', system-ui, sans-serif" font-size="20" font-weight="700" letter-spacing="3" fill="#FFFFFF">BUILD IT · EXPLAIN IT</text>
+</g>
+</svg>

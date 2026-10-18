@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="720" viewBox="0 0 720 720" role="img" aria-label="Circuit Hex: an R monogram drawn as circuit traces inside a hex-nut outline">
+<title>Circuit Hex: an R monogram drawn as circuit traces inside a hex-nut outline</title>
+<defs><style><![CDATA[@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;700&display=swap');]]></style></defs>
+<rect width="720" height="720" fill="#0B1530"/>
+<polygon points="360,72 524.5,167 524.5,357 360,452 195.5,357 195.5,167" fill="#14213D" stroke="#2FD6BC" stroke-width="12" stroke-linejoin="round"/>
+<g transform="translate(14 0)">
+<path d="M310 360 V180 H384 L424 220 V246 L384 286 H310 M366 286 L428 348 M310 232 H258 M310 314 H276 L254 336 M352 180 V136" fill="none" stroke="#2FD6BC" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="310" cy="360" r="14" fill="#14213D" stroke="#2FD6BC" stroke-width="8"/>
+<circle cx="428" cy="348" r="14" fill="#14213D" stroke="#2FD6BC" stroke-width="8"/>
+<circle cx="258" cy="232" r="14" fill="#14213D" stroke="#2FD6BC" stroke-width="8"/>
+<circle cx="254" cy="336" r="14" fill="#14213D" stroke="#2FD6BC" stroke-width="8"/>
+<circle cx="352" cy="136" r="14" fill="#14213D" stroke="#2FD6BC" stroke-width="8"/>
+</g>
+<text x="362" y="556" text-anchor="middle" font-family="'Chakra Petch', 'Segoe UI', system-ui, sans-serif" font-size="78" font-weight="700" letter-spacing="4" fill="#FFFFFF">ROBOSTEAM</text>
+<text x="368" y="600" text-anchor="middle" font-family="'Chakra Petch', 'Segoe UI', system-ui, sans-serif" font-size="28" font-weight="500" letter-spacing="16" fill="#2FD6BC">CHALLENGE</text>
+<text x="361" y="652" text-anchor="middle" font-family="'Chakra Petch', 'Segoe UI', system-ui, sans-serif" font-size="17" font-weight="500" letter-spacing="2" fill="#8C97B2"><tspan fill="#7EA6FF">SCIENCE</tspan> · <tspan fill="#2FD6BC">TECHNOLOGY</tspan> · <tspan fill="#FFA640">ENGINEERING</tspan> · <tspan fill="#FF7AA2">ART</tspan> · <tspan fill="#FFD25A">MATH</tspan></text>
+</svg>

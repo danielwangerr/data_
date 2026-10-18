@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="720" viewBox="0 0 720 720" role="img" aria-label="Champion Crest: a shield with a robot arm raising a star, under a RoboSTEAM ribbon">
+<title>Champion Crest: a shield with a robot arm raising a star, under a RoboSTEAM ribbon</title>
+<defs><style><![CDATA[@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');]]></style></defs>
+<rect width="720" height="720" fill="#FFC21A"/>
+<g transform="translate(0 -6)">
+<path d="M360 92 L548 148 V318 C548 448 456 528 360 572 C264 528 172 448 172 318 V148 Z" fill="#14213D"/>
+<path d="M360 118 L522 166 V318 C522 432 442 504 360 544 C278 504 198 432 198 318 V166 Z" fill="none" stroke="#FFC21A" stroke-width="5" stroke-linejoin="round"/>
+<polygon points="360,152 370.6,179.4 399.9,181 377.1,199.6 384.7,228 360,212 335.3,228 342.9,199.6 320.1,181 349.4,179.4" fill="#FFC21A" stroke="#FFC21A" stroke-width="4" stroke-linejoin="round"/>
+<rect x="296" y="414" width="128" height="30" rx="8" fill="#FF8A00"/>
+<path d="M360 414 L280 342" stroke="#FFFFFF" stroke-width="34" stroke-linecap="round"/>
+<path d="M280 342 L360 266" stroke="#FFFFFF" stroke-width="30" stroke-linecap="round"/>
+<path d="M360 266 L333 245 L337 226 M360 266 L387 245 L383 226" fill="none" stroke="#FFFFFF" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="360" cy="414" r="24" fill="#FF8A00"/>
+<circle cx="360" cy="414" r="8.6" fill="#14213D"/>
+<circle cx="280" cy="342" r="24" fill="#FF8A00"/>
+<circle cx="280" cy="342" r="8.6" fill="#14213D"/>
+<circle cx="360" cy="266" r="19" fill="#FF8A00"/>
+<circle cx="360" cy="266" r="6.8" fill="#14213D"/>
+<polygon points="118,476 182,476 182,546 118,546 140,511" fill="#B8325C"/>
+<polygon points="602,476 538,476 538,546 602,546 580,511" fill="#B8325C"/>
+<polygon points="152,528 182,528 182,546" fill="#7E1F3E"/>
+<polygon points="568,528 538,528 538,546" fill="#7E1F3E"/>
+<rect x="152" y="458" width="416" height="70" fill="#E8457A"/>
+<text x="360" y="508" text-anchor="middle" font-family="Bungee, Impact, 'Arial Black', sans-serif" font-size="40" fill="#FFFFFF">ROBOSTEAM</text>
+<text x="363" y="652" text-anchor="middle" font-family="Bungee, Impact, 'Arial Black', sans-serif" font-size="48" letter-spacing="6" fill="#14213D">CHALLENGE</text>
+</g>
+</svg>
