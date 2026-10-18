@@ -1,2 +1,0 @@
-https://github.com/yl4579/StyleTTS2
-https://github.com/coqui-ai/TTS
